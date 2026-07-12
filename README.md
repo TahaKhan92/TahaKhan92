@@ -33,7 +33,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 
 ## 💼 Professional Experience
 
-### 🌟 SQL Developer / Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
+### 🌟 Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
 *Core Banking & Analytics, IT Department*
 
 - Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
@@ -211,19 +211,10 @@ Built for the National Incubation Center — generates **investor-ready business
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahaKhan92&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaKhan92&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TahaKhan92&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahaKhan92&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies"/>
 </p>
 
 ---
