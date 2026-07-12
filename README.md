@@ -47,22 +47,51 @@ Data Engineer with **3+ years** building and safeguarding data infrastructure in
 ## 🛠️ Skills
 
 **Core Banking**
-`iMAL CBS (R13 & R14)` `T24 Temenos` `EKYC` `Trade Finance` `SBP Compliance`
+![iMAL CBS](https://img.shields.io/badge/iMAL_CBS_(R13_%26_R14)-003087?style=flat-square)
+![T24 Temenos](https://img.shields.io/badge/T24_Temenos-0052CC?style=flat-square)
+![EKYC](https://img.shields.io/badge/EKYC-2E7D32?style=flat-square)
+![Trade Finance](https://img.shields.io/badge/Trade_Finance-6D4C41?style=flat-square)
+![SBP Compliance](https://img.shields.io/badge/SBP_Compliance-455A64?style=flat-square)
 
 **SQL & Data Engineering**
-`SQL (Advanced)` `Stored Procedures` `ETL Pipelines` `Apache Airflow` `Data Validation & Reconciliation` `Schema Mapping`
+![SQL](https://img.shields.io/badge/SQL_(Advanced)-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-336791?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat-square)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Data Validation](https://img.shields.io/badge/Data_Validation_%26_Reconciliation-546E7A?style=flat-square)
+![Schema Mapping](https://img.shields.io/badge/Schema_Mapping-37474F?style=flat-square)
 
 **Programming**
-`Python` `Pandas` `NumPy` `PySpark` `Flask` `REST APIs` `Apache Kafka`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Databases**
-`Sybase ASE` `Oracle` `MySQL` `MongoDB` `Snowflake`
+![Sybase](https://img.shields.io/badge/Sybase_ASE-00618A?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **Reporting & BI**
-`Power BI` `Tableau` `JasperReports (.jrxml)` `MIS Reporting`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports_(.jrxml)-E30613?style=flat-square)
+![MIS Reporting](https://img.shields.io/badge/MIS_Reporting-455A64?style=flat-square)
 
 **Cloud & Infrastructure**
-`GCP` `AWS` `Azure` `Databricks` `dbt` `Docker` `Git` `Linux / Bash`
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
