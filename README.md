@@ -199,24 +199,5 @@ Built for the National Incubation Center — generates **investor-ready business
 | SQL Track (Intro · Intermediate · Joining Data · Data Manipulation) | DataCamp | ✅ Completed |
 | Cloud Data Engineering | SMIT, Saylani Welfare | 🔄 Ongoing |
 
----
-
-## 🎓 Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| MSc, Data Engineering & Information Management | NED University | Aug 2025 – Aug 2027 |
-| PGD, Data Science & Artificial Intelligence | NED University | Dec 2023 – Jan 2025 |
-| BS, Applied Physics | NED University | Oct 2019 – Oct 2023 |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TahaKhan92&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
----
 
 <p align="center"><i>"Engineering clean, auditable data for the systems banks run on."</i></p>
