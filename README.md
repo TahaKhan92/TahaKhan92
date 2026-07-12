@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Taha Khan 👋</h1>
-<h3 align="center">SQL Developer / Data Engineer @ BankIslami · Core Banking & Analytics</h3>
+<h3 align="center">Data Engineer @ BankIslami · Core Banking & Analytics</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/taha-khan-data">
@@ -14,13 +14,17 @@
   <img src="https://img.shields.io/badge/Karachi,%20Pakistan-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 Data Engineer with **3+ years** building and safeguarding data infrastructure inside the banking sector. I specialise in advanced SQL, ETL development, and data validation & reconciliation on core banking systems — turning fragile, manual processes into structured, auditable pipelines.
 
-- 🏦 Currently a **SQL Developer / Data Engineer at BankIslami Pakistan Limited**, working on Core Banking & Analytics in the IT department.
+- 🏦 Currently a **Data Engineer at BankIslami Pakistan Limited**, working on Core Banking & Analytics in the IT department.
 - 🔄 Supporting the **Temenos T24 migration** — requirements analysis, data profiling, and schema mapping.
 - 🎓 Pursuing an **MSc in Data Engineering & Information Management** at NED University.
 - ☁️ Growing into a full-stack **Cloud Data Engineer** across GCP, AWS, and Azure.
@@ -140,7 +144,11 @@ Data Engineer with **3+ years** building and safeguarding data infrastructure in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaKhan92&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=TahaKhan92&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TahaKhan92&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="Trophies"/>
 </p>
 
 ---
