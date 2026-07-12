@@ -1,54 +1,57 @@
-<h1 align="center">Hi, I'm Muhammad Taha Khan 👋</h1>
-<h3 align="center">Data Engineer @ BankIslami · Core Banking & Analytics</h3>
+<h1 align="center">👋 Hi, I'm Muhammad Taha Khan</h1>
+<h3 align="center">Data Engineer · Core Banking Systems · SQL Automation & BI Analytics</h3>
+<p align="center"><i>Turning complex banking data into clean, auditable, decision-ready pipelines.</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/taha-khan-data">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/TahaKhan92">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:tahakhan9272@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Karachi,%20Pakistan-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="https://linkedin.com/in/taha-khan-data"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/TahaKhan92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:tahakhan9272@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/3%2B_Years-Banking_Data-1F4E79?style=flat-square"/>
+  <img src="https://img.shields.io/badge/President_%26_CEO-Award-C9A227?style=flat-square"/>
+  <img src="https://img.shields.io/badge/550%2B-Branches_Served-2E7D32?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Data Engineer with **3+ years** building and safeguarding data infrastructure inside the banking sector. I specialise in advanced SQL, ETL development, and data validation & reconciliation on core banking systems — turning fragile, manual processes into structured, auditable pipelines.
+Data Engineer with **3+ years** of experience in banking data infrastructure, SQL automation, and end-to-end ETL development. At **BankIslami Pakistan**, I turn fragile, manual banking processes into structured, auditable, high-performance data solutions — bridging Finance, Compliance, Operations, and IT.
 
-- 🏦 Currently a **Data Engineer at BankIslami Pakistan Limited**, working on Core Banking & Analytics in the IT department.
-- 🔄 Supporting the **Temenos T24 migration** — requirements analysis, data profiling, and schema mapping.
-- 🎓 Pursuing an **MSc in Data Engineering & Information Management** at NED University.
-- ☁️ Growing into a full-stack **Cloud Data Engineer** across GCP, AWS, and Azure.
-- 📍 Based in Karachi, Pakistan.
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **SQL Developer / Data Engineer** | BankIslami Pakistan Limited — Core Banking & Analytics, IT | Jul 2024 – Present |
-| **Senior Research Analyst** | The Nastech Pvt Ltd | Jun 2023 – Feb 2024 |
+| Highlight | Detail |
+|-----------|--------|
+| 🏆 **Recognition** | Certificate of Achievement from BankIslami's **President & CEO** for the iMAL R-14 Core Banking Upgrade |
+| ⚙️ **Automation** | Rebuilt **100+ manual scripts into 5 stored procedures**; cut report generation **from minutes to seconds** |
+| 🏦 **Scale** | Automated reporting & EKYC across **550+ branches** with **100% SBP compliance** |
+| 🎓 **Education** | Pursuing **MSc in Data Engineering & Information Management** @ NED University |
+| ☁️ **Growing into** | Full-stack **Cloud Data Engineer** across GCP · AWS · Azure |
 
 ---
 
-## 🏆 Achievements
+## 💼 Professional Experience
 
-- 🥇 **iMAL R-14 Core Banking Upgrade** — Led data validation & reconciliation for BankIslami's core banking upgrade, delivered with **zero critical downtime** and a **cleared PwC audit**. Recognised with a **Certificate of Achievement from the President & CEO**.
-- ⚙️ **Branch-Merger Automation** — Redesigned **100+ manual scripts into 5 structured stored procedures** (Liability, Asset, FMS, TFA, PCS), making merges repeatable, auditable, and fast.
+### 🌟 SQL Developer / Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
+*Core Banking & Analytics, IT Department*
+
+- Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
+- Engineered stored procedures and automated enterprise reports across **MIS, EKYC, Trade Finance, Finance CAO & Compliance** for **550+ branches**.
+- Automated SBP-compliant **EKYC workflows across 5 consumer products**, ensuring full audit readiness.
+- Supporting the **Temenos T24 migration** — requirements analysis, data profiling, schema mapping, and Oracle→Sybase data alignment.
+- Built **Power BI dashboards** translating complex banking data into decision-ready insights for senior leadership.
+
+### 🔷 Senior Research Analyst — The Nastech Pvt Ltd &nbsp;·&nbsp; Jun 2023 – Feb 2024
+
+- Automated data processing pipelines, **reducing manual reporting effort by ~60%**.
+- Conducted EDA on business datasets to surface trends and data-quality issues, feeding into quarterly business planning.
+
+<p align="right"><a href="https://linkedin.com/in/taha-khan-data"><b>Full experience on LinkedIn →</b></a></p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 **Core Banking**
 ![iMAL CBS](https://img.shields.io/badge/iMAL_CBS_(R13_%26_R14)-003087?style=flat-square)
@@ -85,7 +88,7 @@ Data Engineer with **3+ years** building and safeguarding data infrastructure in
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports_(.jrxml)-E30613?style=flat-square)
-![MIS Reporting](https://img.shields.io/badge/MIS_Reporting-455A64?style=flat-square)
+![MIS Reporting](https://img.shields.io/badge/MIS_%26_Regulatory_Reporting-455A64?style=flat-square)
 
 **Cloud & Infrastructure**
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -101,15 +104,81 @@ Data Engineer with **3+ years** building and safeguarding data infrastructure in
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Branch Merger Automation** (BankIslami) | 100+ manual scripts refactored into 5 reusable stored procedures for core-banking branch merges. | `iMAL CBS R14` · `SQL` · `Stored Procedures` · `Sybase ASE` |
-| **Smart City Air Quality Monitoring** | End-to-end pipeline for 5 Pakistani cities: IoT + real OpenAQ data → Snowflake medallion → live dashboard. | `Python` · `Snowflake` · `Streamlit` · `OpenAQ v3 API` |
-| **CFPB Consumer Complaints ETL** | Automated ETL of US consumer-complaints data with orchestration and reporting output. | `Apache Airflow` · `Python` · `MySQL` · `Google Sheets API` |
-| **Big Data ETL — Hubway Bike Sharing** | Large-scale bike-share data processing and loading into a NoSQL store. | `PySpark 3.5` · `MongoDB Atlas` · `pymongo` |
-| **Consumer Complaints Analytics** | Analytics layer with materialized views for fast complaint insights. | `Databricks` · `SQL` · `Materialized Views` |
-| **Live Poll Streaming Dashboard** | Real-time streaming poll results visualised live. | `Apache Kafka` · `Python` · `Streamlit` |
-| **NIC Startup Forge — AI Business Plan Generator** | AI tool that generates structured business plans from prompts. | `Python` · `Streamlit` · `Groq API` · `Llama 3.3 70B` |
+### 🔹 Branch Merger Automation — BankIslami
+**Core Banking · SQL Automation · Audit-Ready**
+
+Redesigned the bank's branch-merger process from a fragile, manual workflow into a structured, reusable engine covering all core banking modules.
+
+- Rebuilt **100+ manual scripts into 5 structured stored procedures** (Liability, Asset, FMS, TFA, PCS).
+- Cut merger execution time significantly, **eliminated human error**, and ensured **SBP audit readiness**.
+- Maintained **Shariah-compliant data integrity** across profit pools and TDR transfers.
+
+`iMAL CBS R14` `SQL` `Stored Procedures` `Sybase ASE`
+
+### 🔹 Smart City Air Quality Monitoring System
+**Data Engineering · Snowflake Medallion · Streaming · Dashboard**
+
+End-to-end pipeline monitoring air quality across **5 Pakistani cities**, blending simulated IoT sensor data with real OpenAQ reference data.
+
+- Ingested **2 data sources** (10 IoT sensors + OpenAQ v3 API) into a **Bronze → Silver → Gold** Snowflake architecture.
+- Computed **US EPA AQI** with anomaly detection, health-risk classification, and daily city aggregates.
+- Built a live **Streamlit** monitoring console with gauge, map, trends, and auto-refresh.
+
+`Python` `Snowflake` `Streamlit` `OpenAQ v3 API` `Pandas`
+
+### 🔹 CFPB Consumer Complaints ETL Pipeline
+**Orchestration · REST API · Automated Reporting**
+
+Automated an ETL pipeline ingesting the CFPB API across **all 50 US states** on 30-day rolling windows.
+
+- Orchestrated with **Apache Airflow**; stored in MySQL with Pandas transforms.
+- Delivered a **Google Sheets** dashboard output with **email alerts on completion**.
+
+`Apache Airflow` `Python` `MySQL` `Google Sheets API` `Pandas`
+
+### 🔹 Consumer Complaints Analytics Dashboard
+**Analytics · Databricks · Performance**
+
+Built an end-to-end analytics dashboard on **780+ CFPB records** with fast, drill-down insight.
+
+- KPI cards, time-series trends, Top-10 products chart, donut charts, and drill-down by Product/Sub-product/Issue/State.
+- Used **materialized views** for query performance.
+
+`Databricks` `SQL` `Materialized Views`
+
+### 🔹 Big Data ETL Pipeline — Hubway Bike Sharing
+**Big Data · PySpark · NoSQL**
+
+Engineered a distributed PySpark pipeline across **3 datasets** with multi-table joins and enrichment.
+
+- Landmark enrichment + zip-to-state mapping; **1,289 unique route combinations** written to MongoDB Atlas.
+
+`PySpark 3.5` `MongoDB Atlas` `pymongo`
+
+### 🔹 Live Poll Streaming Dashboard
+**Real-Time · Event Streaming**
+
+Real-time event-streaming pipeline with a **Kafka producer/consumer** architecture and a live Streamlit dashboard for KPI monitoring and raw event validation.
+
+`Apache Kafka` `Python` `Streamlit`
+
+### 🔹 NIC Startup Forge — AI Business Plan Generator
+**GenAI · Prompt Engineering**
+
+Built for the National Incubation Center — generates **investor-ready business plans in under 30 seconds** via the Groq API (Llama 3.3 70B), with **20+ industry themes**, deployed on Streamlit Community Cloud.
+
+`Python` `Streamlit` `Groq API` `Llama 3.3 70B`
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Detail |
+|-------------|--------|
+| 🥇 **President & CEO Award** | Recognized for the **iMAL R-14** core banking upgrade — zero downtime, PwC audit cleared |
+| ⚙️ **100+ → 5** | Refactored 100+ manual branch-merger scripts into 5 reusable stored procedures |
+| ⚡ **Minutes → Seconds** | Automated EKYC & enterprise reporting, drastically cutting report generation time |
+| 🏦 **550+ Branches** | Enterprise reports & automation delivered bank-wide with 100% SBP compliance |
 
 ---
 
@@ -153,4 +222,4 @@ Data Engineer with **3+ years** building and safeguarding data infrastructure in
 
 ---
 
-<p align="center"><i>"Turning raw data into reliable decisions — one pipeline at a time."</i></p>
+<p align="center"><i>"Engineering clean, auditable data for the systems banks run on."</i></p>
