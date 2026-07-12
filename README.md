@@ -33,7 +33,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 
 ## 💼 Professional Experience
 
-### 🌟 Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
+### 🌟 SQL Developer / Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
 *Core Banking & Analytics, IT Department*
 
 - Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
@@ -54,6 +54,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ## 🛠️ Technical Skills
 
 **Core Banking**
+
 ![iMAL CBS](https://img.shields.io/badge/iMAL_CBS_(R13_%26_R14)-003087?style=flat-square)
 ![T24 Temenos](https://img.shields.io/badge/T24_Temenos-0052CC?style=flat-square)
 ![EKYC](https://img.shields.io/badge/EKYC-2E7D32?style=flat-square)
@@ -61,6 +62,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ![SBP Compliance](https://img.shields.io/badge/SBP_Compliance-455A64?style=flat-square)
 
 **SQL & Data Engineering**
+
 ![SQL](https://img.shields.io/badge/SQL_(Advanced)-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-336791?style=flat-square)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat-square)
@@ -69,6 +71,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ![Schema Mapping](https://img.shields.io/badge/Schema_Mapping-37474F?style=flat-square)
 
 **Programming**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -78,6 +81,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Databases**
+
 ![Sybase](https://img.shields.io/badge/Sybase_ASE-00618A?style=flat-square)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -85,12 +89,14 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 **Reporting & BI**
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports_(.jrxml)-E30613?style=flat-square)
 ![MIS Reporting](https://img.shields.io/badge/MIS_%26_Regulatory_Reporting-455A64?style=flat-square)
 
 **Cloud & Infrastructure**
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
