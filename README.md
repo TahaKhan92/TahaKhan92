@@ -194,6 +194,7 @@ Built for the National Incubation Center — generates **investor-ready business
 |---------------|--------|--------|
 | Hands-On Essentials: Data Warehousing Workshop | Snowflake | ✅ Completed |
 | Hands-On Essentials: Collaboration, Marketplace & Cost Estimation | Snowflake | ✅ Completed |
+| Hands-On Essentials: Data Application Builders Workshop | Snowflake | ✅ Completed |
 | Certified Data Engineer (CDE) | Karachi.AI × NUST Karsaz | ✅ Completed |
 | Business Intelligence Certification | CRUX International, Canada | ✅ Completed |
 | SQL Track (Intro · Intermediate · Joining Data · Data Manipulation) | DataCamp | ✅ Completed |
