@@ -37,7 +37,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 *Core Banking & Analytics, IT Department*
 
 - Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
-- Engineered stored procedures and automated enterprise reports across **MIS, EKYC, Trade Finance, Finance CAO & Compliance** for **550+ branches**.
+- Engineered stored procedures and automated enterprise reports across **MIS, EKYC, Trade Finance, Finance CAO & Compliance** for **580+ branches**.
 - Automated SBP-compliant **EKYC workflows across 5 consumer products**, ensuring full audit readiness.
 - Supporting the **Temenos T24 migration** — requirements analysis, data profiling, schema mapping, and Oracle→Sybase data alignment.
 - Built **Power BI dashboards** translating complex banking data into decision-ready insights for senior leadership.
@@ -184,7 +184,7 @@ Built for the National Incubation Center — generates **investor-ready business
 | 🥇 **President & CEO Award** | Recognized for the **iMAL R-14** core banking upgrade — zero downtime, PwC audit cleared |
 | ⚙️ **100+ → 5** | Refactored 100+ manual branch-merger scripts into 5 reusable stored procedures |
 | ⚡ **Minutes → Seconds** | Automated EKYC & enterprise reporting, drastically cutting report generation time |
-| 🏦 **550+ Branches** | Enterprise reports & automation delivered bank-wide with 100% SBP compliance |
+| 🏦 **580+ Branches** | Enterprise reports & automation delivered bank-wide with 100% SBP compliance |
 
 ---
 
