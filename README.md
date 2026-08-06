@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/3%2B_Years-Banking_Data-1F4E79?style=flat-square"/>
   <img src="https://img.shields.io/badge/President_%26_CEO-Award-C9A227?style=flat-square"/>
-  <img src="https://img.shields.io/badge/550%2B-Branches_Served-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/580%2B-Branches_Served-2E7D32?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
 
@@ -25,7 +25,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 |-----------|--------|
 | 🏆 **Recognition** | Certificate of Achievement from BankIslami's **President & CEO** for the iMAL R-14 Core Banking Upgrade |
 | ⚙️ **Automation** | Rebuilt **100+ manual scripts into 5 stored procedures**; cut report generation **from minutes to seconds** |
-| 🏦 **Scale** | Automated reporting & EKYC across **550+ branches** with **100% SBP compliance** |
+| 🏦 **Scale** | Automated reporting & EKYC across **580+ branches** with **100% SBP compliance** |
 | 🎓 **Education** | Pursuing **MSc in Data Engineering & Information Management** @ NED University |
 | ☁️ **Growing into** | Full-stack **Cloud Data Engineer** across GCP · AWS · Azure |
 
