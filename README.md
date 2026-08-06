@@ -34,7 +34,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ## 💼 Professional Experience
 
 ### 🌟 Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
-*Core Banking & Analytics, IT Department*
+*Core Banking IT Department*
 
 - Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
 - Engineered stored procedures and automated enterprise reports across **MIS, EKYC, Trade Finance, Finance CAO & Compliance** for **580+ branches**.
