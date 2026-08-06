@@ -26,7 +26,7 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 | 🏆 **Recognition** | Certificate of Achievement from BankIslami's **President & CEO** for the iMAL R-14 Core Banking Upgrade |
 | ⚙️ **Automation** | Rebuilt **100+ manual scripts into 5 stored procedures**; cut report generation **from minutes to seconds** |
 | 🏦 **Scale** | Automated reporting & EKYC across **580+ branches** with **100% SBP compliance** |
-| 🎓 **Education** | Pursuing **MSc in Data Engineering & Information Management** @ NED University |
+| 🎓 **Education** | Pursuing **MS in Data Engineering & Information Management** @ NED University |
 | ☁️ **Growing into** | Full-stack **Cloud Data Engineer** across GCP · AWS · Azure |
 
 ---
