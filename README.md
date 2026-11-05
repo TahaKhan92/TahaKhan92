@@ -1,54 +1,64 @@
 <h1 align="center">👋 Hi, I'm Muhammad Taha Khan</h1>
-<h3 align="center">Data Engineer · Core Banking Systems · SQL Automation & BI Analytics</h3>
-<p align="center"><i>Turning complex banking data into clean, auditable, decision-ready pipelines.</i></p>
+<h3 align="center">Core Banking IT · Data Engineering · SQL Automation · Cloud Data Pipelines</h3>
+<p align="center"><i>Bridging banking systems and modern data engineering — from reliable SQL to scalable cloud pipelines.</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/taha-khan-data"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/taha-khan-02b89025a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/TahaKhan92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:tahakhan9272@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3%2B_Years-Banking_Data-1F4E79?style=flat-square"/>
-  <img src="https://img.shields.io/badge/President_%26_CEO-Award-C9A227?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sitara--e--Taawun-2026-D4A017?style=flat-square" alt="Sitara-e-Taawun Award 2026"/>
-  <img src="https://img.shields.io/badge/580%2B-Branches_Served-2E7D32?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue&label=Profile+Views"/>
+  <img src="https://img.shields.io/badge/2%2B_Years-Core_Banking_IT-1F4E79?style=flat-square" alt="2+ years in core banking IT"/>
+  <img src="https://img.shields.io/badge/President_%26_CEO-Recognition-C9A227?style=flat-square" alt="President and CEO recognition"/>
+  <img src="https://img.shields.io/badge/Sitara--e--Taawun-2026-D4A017?style=flat-square" alt="Sitara-e-Taawun 2026"/>
+  <img src="https://img.shields.io/badge/AWS_%7C_Snowflake_%7C_Airflow-Projects-2E7D32?style=flat-square" alt=" Multi Cloud Data Engineering projects"/>
+  <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Data Engineer with **3+ years** of experience in banking data infrastructure, SQL automation, and end-to-end ETL development. At **BankIslami Pakistan**, I turn fragile, manual banking processes into structured, auditable, high-performance data solutions — bridging Finance, Compliance, Operations, and IT.
+I'm a **Data Engineering & Core Banking IT professional with 3+ years of overall experience** across data analysis, SQL automation, enterprise reporting, application support, and data management.
 
-| Highlight | Detail |
-|-----------|--------|
-| 🏆 **Recognition** | Certificate of Achievement from BankIslami's **President & CEO** for the iMAL R-14 Core Banking Upgrade; **Sales ke Sitara-e-Taawun Award 2026** for support and collaboration with the Liabilities Sales Force |
-| ⚙️ **Automation** | Rebuilt **100+ manual scripts into 5 stored procedures**; cut report generation **from minutes to seconds** |
-| 🏦 **Scale** | Automated reporting & EKYC across **580+ branches** with **100% SBP compliance** |
-| 🎓 **Education** | Pursuing **MS in Data Engineering & Information Management** @ NED University |
-| ☁️ **Growing into** | Full-stack **Cloud Data Engineer** across GCP · AWS · Azure |
+Currently working at **BankIslami Pakistan since July 2024**, I specialize in core banking systems, SQL development, data validation, reconciliation, and reporting automation — bridging the gap between Finance, Compliance, Operations, and IT.
+
+Beyond my professional role, I actively design and implement **end-to-end Data Engineering solutions** using **AWS, Azure, Snowflake, Databricks, Python, Apache Airflow, Apache Kafka, PySpark, and dbt**, with hands-on experience in serverless ETL/ELT pipelines, event-driven architectures, data warehousing, and real-time processing.
+
+I'm also pursuing an **MS in Data Engineering & Information Management at NED University**, continuously strengthening my expertise in building scalable, reliable, and cloud-native data platforms.
+
+I care about **data quality, auditability, maintainable SQL, and end-to-end pipeline design** — not simply collecting technology badges.
+
+| Focus | What I bring |
+|-------|--------------|
+| 🏦 **Banking & SQL** | iMAL CBS R13/R14, Sybase ASE, stored procedures, MIS and regulatory reporting, data reconciliation |
+| ☁️ **Cloud Engineering** | AWS serverless ETL, Snowflake, Python, Airflow, Kafka and Azure/Databricks learning projects |
+| 🏆 **Recognition** | BankIslami President & CEO Certificate of Achievement and **Sales ke Sitara-e-Taawun Award 2026** |
+| 🎓 **Education** | MS Data Engineering & Information Management, NED University (in progress) |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🌟 Data Engineer — BankIslami Pakistan Limited &nbsp;·&nbsp; Jul 2024 – Present
-*Core Banking IT Department*
+### 🏦 Core Banking Application & Implementation | BankIslami Pakistan Limited
+*July 2024 – Present · Core Banking IT*
 
-- Led data validation, reconciliation & EDA for the **iMAL R-14 Core Banking Upgrade** — achieved **zero critical downtime**, **cleared the PwC audit**, and earned a **Certificate of Achievement from the President & CEO**.
-- Engineered stored procedures and automated enterprise reports across **MIS, EKYC, Trade Finance, Finance CAO & Compliance** for **580+ branches**.
-- Automated SBP-compliant **EKYC workflows across 5 consumer products**, ensuring full audit readiness.
-- Supporting the **Temenos T24 migration** — requirements analysis, data profiling, schema mapping, and Oracle→Sybase data alignment.
-- Built **Power BI dashboards** translating complex banking data into decision-ready insights for senior leadership.
+- Support the **iMAL R13/R14 core banking environment**, including application implementation, data checks, validation, reconciliation, and post-upgrade reporting verification.
+- Develop and optimize **Sybase ASE SQL queries, stored procedures, and JasperReports** for business and operational reporting across Finance, Compliance, Trade Finance, and other stakeholders.
+- Contribute to **branch-merger data checks and automation** with an emphasis on accuracy, traceability, and reconciliation.
+- Work with business and IT teams on **EKYC, MIS, regulatory reporting, and process improvements**.
+- Received recognition for **core banking upgrade contributions** and **cross-functional support** to the Liabilities Sales Force.
 
-### 🔷 Senior Research Analyst — The Nastech Pvt Ltd &nbsp;·&nbsp; Jun 2023 – Feb 2024
+> **Banking work is described at a high level to respect employer confidentiality.** No internal source code, customer data, credentials, or restricted implementation details are published here.
 
-- Automated data processing pipelines, **reducing manual reporting effort by ~60%**.
-- Conducted EDA on business datasets to surface trends and data-quality issues, feeding into quarterly business planning.
+### 🔷 Senior Research Analyst | The Nastech Pvt Ltd
+*June 2023 – February 2024*
 
-<p align="right"><a href="https://linkedin.com/in/taha-khan-data"><b>Full experience on LinkedIn →</b></a></p>
+- Worked on business data analysis, exploratory analysis, and repeatable reporting processes.
+- Identified trends and data-quality issues to support business insights and reporting efficiency.
+
+<p align="right"><a href="https://www.linkedin.com/in/taha-khan-02b89025a/"><b>Full experience on LinkedIn →</b></a></p>
 
 ---
 
@@ -107,86 +117,93 @@ Data Engineer with **3+ years** of experience in banking data infrastructure, SQ
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 🏗️ Featured Projects
-
-### 🔹 Branch Merger Automation — BankIslami
-**Core Banking · SQL Automation · Audit-Ready**
-
-Redesigned the bank's branch-merger process from a fragile, manual workflow into a structured, reusable engine covering all core banking modules.
-
-- Rebuilt **100+ manual scripts into 5 structured stored procedures** (Liability, Asset, FMS, TFA, PCS).
-- Cut merger execution time significantly, **eliminated human error**, and ensured **SBP audit readiness**.
-- Maintained **Shariah-compliant data integrity** across profit pools and TDR transfers.
-
-`iMAL CBS R14` `SQL` `Stored Procedures` `Sybase ASE`
-
-### 🔹 Smart City Air Quality Monitoring System
-**Data Engineering · Snowflake Medallion · Streaming · Dashboard**
-
-End-to-end pipeline monitoring air quality across **5 Pakistani cities**, blending simulated IoT sensor data with real OpenAQ reference data.
-
-- Ingested **2 data sources** (10 IoT sensors + OpenAQ v3 API) into a **Bronze → Silver → Gold** Snowflake architecture.
-- Computed **US EPA AQI** with anomaly detection, health-risk classification, and daily city aggregates.
-- Built a live **Streamlit** monitoring console with gauge, map, trends, and auto-refresh.
-
-`Python` `Snowflake` `Streamlit` `OpenAQ v3 API` `Pandas`
-
-### 🔹 CFPB Consumer Complaints ETL Pipeline
-**Orchestration · REST API · Automated Reporting**
-
-Automated an ETL pipeline ingesting the CFPB API across **all 50 US states** on 30-day rolling windows.
-
-- Orchestrated with **Apache Airflow**; stored in MySQL with Pandas transforms.
-- Delivered a **Google Sheets** dashboard output with **email alerts on completion**.
-
-`Apache Airflow` `Python` `MySQL` `Google Sheets API` `Pandas`
-
-### 🔹 Consumer Complaints Analytics Dashboard
-**Analytics · Databricks · Performance**
-
-Built an end-to-end analytics dashboard on **780+ CFPB records** with fast, drill-down insight.
-
-- KPI cards, time-series trends, Top-10 products chart, donut charts, and drill-down by Product/Sub-product/Issue/State.
-- Used **materialized views** for query performance.
-
-`Databricks` `SQL` `Materialized Views`
-
-### 🔹 Big Data ETL Pipeline — Hubway Bike Sharing
-**Big Data · PySpark · NoSQL**
-
-Engineered a distributed PySpark pipeline across **3 datasets** with multi-table joins and enrichment.
-
-- Landmark enrichment + zip-to-state mapping; **1,289 unique route combinations** written to MongoDB Atlas.
-
-`PySpark 3.5` `MongoDB Atlas` `pymongo`
-
-### 🔹 Live Poll Streaming Dashboard
-**Real-Time · Event Streaming**
-
-Real-time event-streaming pipeline with a **Kafka producer/consumer** architecture and a live Streamlit dashboard for KPI monitoring and raw event validation.
-
-`Apache Kafka` `Python` `Streamlit`
-
-### 🔹 NIC Startup Forge — AI Business Plan Generator
-**GenAI · Prompt Engineering**
-
-Built for the National Incubation Center — generates **investor-ready business plans in under 30 seconds** via the Groq API (Llama 3.3 70B), with **20+ industry themes**, deployed on Streamlit Community Cloud.
-
-`Python` `Streamlit` `Groq API` `Llama 3.3 70B`
+<sub>Skills above include production experience, personal projects, and learning exposure. My strongest production background is iMAL, Sybase ASE, SQL, reporting and reconciliation; T24 is currently conceptual familiarity rather than claimed hands-on migration delivery.</sub>
 
 ---
 
-## 🏆 Achievements
+## 🏗️ Featured Data Engineering Projects
 
-| Achievement | Detail |
+### 1. 🚀 [Polarapt HCM — Event-Driven Real-Time Data Platform](https://github.com/TahaKhan92/polarapt-hcm-real-time-data-platform)
+**AWS · Event-Driven Architecture · Snowflake · SQL Server**
+
+A multi-source data platform developed as part of a Multi Cloud Data Engineering hackathon:
+
+- Scheduled ingestion of **USAJOBS, labor-market benchmarks and foreign-exchange data** with Amazon EventBridge and AWS Lambda.
+- Used **Amazon S3, SNS, SQS FIFO**, and source-specific processors to decouple ingestion from downstream processing.
+- Routed transformed data into **Snowflake, S3 processed storage, and SQL Server**.
+- Documented an **AWS Glue account-access limitation** and implemented a working Lambda-based fallback for the jobs pipeline.
+
+`AWS Lambda` `S3` `SNS` `SQS FIFO` `EventBridge` `Snowflake` `SQL Server` `Python`
+
+### 2. ☁️ [YouTube Trending Data — Serverless AWS ETL](https://github.com/TahaKhan92/youtube-etl-aws)
+**Cloud Data Lake · Parquet · Infrastructure as Code**
+
+- Designed **RAW → CLEANSED → ANALYTICS** zones on Amazon S3 for regional YouTube CSV and JSON datasets.
+- Implemented data cleansing, schema handling, deduplication, and **Parquet-based analytics** using Lambda and Athena.
+- Used **Terraform, Glue Data Catalog, and Athena SQL** to organize resources and query transformed data.
+
+`AWS` `S3` `Lambda` `Glue Catalog` `Athena` `Terraform` `Python` `Parquet`
+
+### 3. 🌍 [Smart City Air Quality Monitoring](https://github.com/TahaKhan92/smart-city-aqi)
+**Snowflake · Medallion Architecture · Analytics Dashboard**
+
+- Combined **simulated readings from 10 IoT sensors** with OpenAQ reference observations across five Pakistani cities.
+- Built **Bronze → Silver → Gold** pipelines for validation, transformation, and city-level aggregation.
+- Presented AQI calculations, trends, and location-based insights in **Streamlit**.
+
+`Python` `Pandas` `Snowflake` `SQL` `Streamlit` `OpenAQ API`
+
+### 4. 🌀 [FMP Financial Data Ingestion — Apache Airflow](https://github.com/TahaKhan92/fmp-airflow-project)
+**Orchestration · API Integration · Docker**
+
+- Created an Airflow DAG to retrieve selected market data through the **Financial Modeling Prep API**.
+- Structured steps for loading data into **Snowflake** and saving a file output to **Amazon S3**.
+- Included a **Docker Compose** setup, retries, example configuration, and execution instructions.
+
+`Apache Airflow` `Docker` `Python` `REST APIs` `Snowflake` `S3`
+
+### 5. 🏦 Core Banking SQL Automation & Branch-Merger Support — Professional Case Study
+**Enterprise SQL · Data Quality · Reconciliation · Auditability**
+
+- Applied reusable SQL and structured validation checks to support **branch-level data consolidation and reconciliation**.
+- Supported operational reporting and coordinated with cross-functional teams around accuracy and traceability.
+- This is a **high-level summary of professional work**, not a public source-code repository.
+
+`Sybase ASE` `SQL` `Stored Procedures` `iMAL CBS` `Data Validation`
+
+### 6. 📋 Consumer Complaints ETL & Reporting
+**Airflow · REST API · MySQL · Automated Reporting**
+
+- Built an ETL learning project around **CFPB consumer complaint data** using Python and Apache Airflow.
+- Processed and stored complaint records in **MySQL**, with reporting output to Google Sheets and completion notifications.
+
+`Python` `Apache Airflow` `Pandas` `MySQL` `Google Sheets`
+
+### 7. 📊 [SQL Analytics & Window Functions](https://github.com/TahaKhan92/SMIT_SQL_TEST_Assignment)
+**SQL · Query Design · Analytical Functions**
+
+- Practiced joins, subqueries, CTEs, views, stored procedures and window functions (`RANK`, `LAG`, `LEAD`) on an OLTP assignment dataset.
+
+`SQL` `CTEs` `Window Functions` `Stored Procedures`
+
+### More Projects & Learning Labs
+
+- **Big Data ETL — Hubway Bike Sharing:** PySpark transformations and MongoDB Atlas output.
+- **Kafka Live Poll Dashboard:** Producer/consumer flow and live Streamlit analytics.
+- **Consumer Complaints Analytics Dashboard:** Databricks SQL, materialized views and interactive reporting.
+- **NIC Startup Forge:** Generative-AI business-plan prototype using Python, Streamlit and Groq API.
+- **[Airline Batch + Streaming Pipeline](https://github.com/TahaKhan92/airline-dlt-pipeline):** Azure Event Hubs, Databricks and Declarative Pipelines study repository, **forked from [ayanhussain81](https://github.com/ayanhussain81/airline-dlt-pipeline)**. Personal modifications should be documented separately when implemented.
+
+---
+
+## 🏆 Professional Recognition
+
+| Recognition | Detail |
 |-------------|--------|
-| 🥇 **President & CEO Award** | Recognized for the **iMAL R-14** core banking upgrade — zero downtime, PwC audit cleared |
-| ⭐ **Sales ke Sitara-e-Taawun Award 2026** | Recognized by **BankIslami** for valuable support, outstanding collaboration and meaningful contribution to the success of the **Liabilities Sales Force** |
-| ⚙️ **100+ → 5** | Refactored 100+ manual branch-merger scripts into 5 reusable stored procedures |
-| ⚡ **Minutes → Seconds** | Automated EKYC & enterprise reporting, drastically cutting report generation time |
-| 🏦 **580+ Branches** | Enterprise reports & automation delivered bank-wide with 100% SBP compliance |
+| 🥇 **President & CEO Certificate of Achievement** | Recognized for contributions to BankIslami's **iMAL R14 Core Banking Upgrade** initiative |
+| ⭐ **Sales ke Sitara-e-Taawun Award 2026** | Recognized for valuable support, collaboration, and contribution to the **Liabilities Sales Force** |
+
+*Performance figures and internal banking implementation details are intentionally excluded from this public profile unless verified and cleared for sharing.*
 
 ---
 
@@ -203,4 +220,7 @@ Built for the National Incubation Center — generates **investor-ready business
 | Multi Cloud Data Engineering | SMIT, Saylani Welfare | 🔄 Ongoing |
 
 
-<p align="center"><i>"Engineering clean, auditable data for the systems banks run on."</i></p>
+---
+
+<p align="center"><i>"Building reliable, auditable data solutions — from banking SQL to cloud-scale pipelines."</i></p>
+<p align="center"><a href="https://github.com/TahaKhan92?tab=repositories"><b>Explore all my public repositories</b></a></p>
