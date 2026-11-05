@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2%2B_Years-Core_Banking_IT-1F4E79?style=flat-square" alt="2+ years in core banking IT"/>
+  <img src="https://img.shields.io/badge/3%2B_Years-Overall_Experience-1F4E79?style=flat-square" alt="3+ years of overall professional experience"/>
   <img src="https://img.shields.io/badge/President_%26_CEO-Recognition-C9A227?style=flat-square" alt="President and CEO recognition"/>
   <img src="https://img.shields.io/badge/Sitara--e--Taawun-2026-D4A017?style=flat-square" alt="Sitara-e-Taawun 2026"/>
-  <img src="https://img.shields.io/badge/AWS_%7C_Snowflake_%7C_Airflow-Projects-2E7D32?style=flat-square" alt=" Multi Cloud Data Engineering projects"/>
+  <img src="https://img.shields.io/badge/AWS_%7C_Snowflake_%7C_Airflow-Projects-2E7D32?style=flat-square" alt="Cloud data engineering projects"/>
   <img src="https://komarev.com/ghpvc/?username=TahaKhan92&style=flat-square&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
 
@@ -217,7 +217,7 @@ A multi-source data platform developed as part of a Multi Cloud Data Engineering
 | Certified Data Engineer (CDE) | Karachi.AI × NUST Karsaz | ✅ Completed |
 | Business Intelligence Certification | CRUX International, Canada | ✅ Completed |
 | SQL Track (Intro · Intermediate · Joining Data · Data Manipulation) | DataCamp | ✅ Completed |
-| Multi Cloud Data Engineering | SMIT, Saylani Welfare | 🔄 Ongoing |
+| Multi Cloud Data Engineering | SMIT, Saylani Welfare | ✅ Completed |
 
 
 ---
